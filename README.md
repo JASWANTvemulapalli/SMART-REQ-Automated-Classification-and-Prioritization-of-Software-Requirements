@@ -113,6 +113,19 @@ The **PROMISE_exp dataset** was used as the baseline:
 
 **Multi-Class Classification (11 NFR Categories):**
 
+| True Label \ Predicted Label | Security | Usability | Performance | Scalability | Maintainability | Operability | Availability | Look-and-Feel | Fault Tolerance | Portability | Legal |
+|------------------------------|----------|-----------|-------------|-------------|-----------------|-------------|--------------|---------------|-----------------|------------|-------|
+| **Security**                | 44       | 2         | 1           | 0           | 0               | 0           | 0            | 0             | 0               | 0          | 0     |
+| **Usability**               | 1        | 35        | 0           | 0           | 0               | 1           | 0            | 5             | 0               | 0          | 0     |
+| **Performance**             | 0        | 0         | 28          | 2           | 0               | 0           | 1            | 0             | 0               | 0          | 0     |
+| **Scalability**             | 0        | 0         | 0           | 23          | 1               | 0           | 0            | 0             | 1               | 0          | 0     |
+| **Maintainability**         | 0        | 0         | 0           | 1           | 21              | 3           | 0            | 0             | 0               | 1          | 0     |
+| **Operability**             | 0        | 1         | 0           | 0           | 0               | 25          | 0            | 0             | 0               | 0          | 0     |
+| **Availability**            | 0        | 0         | 0           | 0           | 0               | 0           | 13           | 0             | 0               | 0          | 0     |
+| **Look-and-Feel**           | 0        | 1         | 0           | 0           | 0               | 0           | 0            | 3             | 0               | 0          | 0     |
+| **Fault Tolerance**         | 0        | 0         | 0           | 0           | 0               | 0           | 0            | 0             | 3               | 0          | 0     |
+| **Portability**             | 0        | 0         | 0           | 0           | 0               | 0           | 0            | 0             | 0               | 2          | 0     |
+| **Legal**                   | 0        | 0         | 0           | 0           | 0               | 0           | 0            | 0             | 0               | 0          | 2     |
 
 ---
 
