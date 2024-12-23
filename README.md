@@ -208,8 +208,8 @@ The **PROMISE_exp dataset** was used as the baseline:
 
 ## **Contributors** 🤝
 
-- **Jaswant Vemulapalli** ([jvemula@umd.edu](mailto:jvemula@umd.edu))
-- **Aanchal Pandey** ([apandey5@umd.edu](mailto:apandey5@umd.edu))
+- **Jaswant Vemulapalli** ([vjaswant7@gmail.com](mailto:vjaswant7@gmail.com))
+- **Aanchal Pandey** ([aplpandey01@gmail.com](mailto:aplpandey01@gmail.com))
 - **Piyush Anand** ([panand14@umd.edu](mailto:panand14@umd.edu))
 
 ---
